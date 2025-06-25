@@ -1,0 +1,6 @@
+@VelvetLeash.API_HostAddress = http://localhost:5218
+
+GET {{VelvetLeash.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
